@@ -5,4 +5,5 @@ y = 5
 
 z = x ^ y
 
-print(z)
+print(z) 
+print(x)
