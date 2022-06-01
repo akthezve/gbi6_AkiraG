@@ -1,0 +1,7 @@
+#! /bin/python
+
+x= input()
+y= input()
+z= x+y
+print("la suma de ", x, "e", y, "es igual", z)
+
